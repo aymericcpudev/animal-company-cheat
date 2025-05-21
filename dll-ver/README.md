@@ -12,4 +12,3 @@ This project is a C++ DLL intended for injection into Animal Company (Oculus VR,
 2. Inject the DLL into the Animal Company process using your preferred injector.
 3. Extend the code with your desired cheat features.
 
-**For educational purposes only.**
