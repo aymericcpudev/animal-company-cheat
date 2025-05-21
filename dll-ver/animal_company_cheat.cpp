@@ -20,6 +20,10 @@ void EnableESP() {
     // TODO: Implement ESP logic
 }
 
+void EnableWallhack() {
+    // TODO: Implement wallhack logic
+}
+
 void EnableSpeedHack() {
     // TODO: Implement speed hack logic
 }
