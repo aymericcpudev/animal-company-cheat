@@ -19,12 +19,39 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
 void EnableESP() {
     // TODO: Implement ESP logic
 }
+void EnableAimbot() {
+    // TODO: Implement aimbot logic
+}
 
-void EnableWallhack() {
-    // TODO: Implement wallhack logic
+void EnableNoRecoil() {
+    // TODO: Implement no recoil logic
+}
+
+void EnableNoSpread() {
+    // TODO: Implement no spread logic
+}
+
+void EnableNoFlash() {
+    // TODO: Implement no flash logic
+}
+
+void EnableNoSmoke() {
+    // TODO: Implement no smoke logic
+}
+
+void EnableInfiniteAmmo() {
+    // TODO: Implement infinite ammo logic
+}
+
+void EnableGodMode() {
+    // TODO: Implement god mode logic
+}
+
+void EnableTeleport() {
+    // TODO: Implement teleport logic
 }
 
 void EnableSpeedHack() {
-    // TODO: Implement speed hack logic
+
 }
 
