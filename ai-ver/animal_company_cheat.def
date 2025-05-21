@@ -1,0 +1,4 @@
+// animal_company_cheat.def
+LIBRARY "animal_company_cheat"
+EXPORTS
+    ; Export functions here if needed
