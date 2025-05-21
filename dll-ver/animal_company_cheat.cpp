@@ -23,3 +23,4 @@ void EnableESP() {
 void EnableSpeedHack() {
     // TODO: Implement speed hack logic
 }
+asd
